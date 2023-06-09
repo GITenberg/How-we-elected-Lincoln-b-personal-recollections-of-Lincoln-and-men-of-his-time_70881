@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '55975'
     url: http://www.gutenberg.org/2009/agents/55975
     wikipedia: https://en.wikipedia.org/wiki/Julius_Chambers
+covers:
+- cover_type: archival
+  image_path: 70881-h/images/cover.jpg
 creator:
   author:
     agent_name: Dittenhoefer, Abram J. (Abram Jesse)
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55911
     wikipedia: https://en.wikipedia.org/wiki/Abram_J._Dittenhoefer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70881#How-we-elected-Lincoln-b-personal-recollections-of-Lincoln-and-men-of-his-time
 gutenberg_issued: '2023-05-29'
 identifiers:
   gutenberg: '70881'
